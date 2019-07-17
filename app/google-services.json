@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743171092090",
+    "firebase_url": "https://meal-planning-47de5.firebaseio.com",
+    "project_id": "meal-planning-47de5",
+    "storage_bucket": "meal-planning-47de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743171092090:android:b83f66806cd9e44f",
+        "android_client_info": {
+          "package_name": "com.chookie.mealplanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743171092090-66dspc4822dhpnhrd99ffn3kv6j606oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chookie.mealplanning",
+            "certificate_hash": "71dc02ef8ceec352ee8310f541ed86432840fc6b"
+          }
+        },
+        {
+          "client_id": "743171092090-m89ntaucikv70rhqfe0cuq457hj6hr3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuUl56VMsf_68SFUjgdf4p1sA49fGxmkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743171092090-m89ntaucikv70rhqfe0cuq457hj6hr3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
